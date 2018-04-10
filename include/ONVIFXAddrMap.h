@@ -1,0 +1,13 @@
+#define ANALYTICS_XADDR 0
+#define DEVICE_XADDR    1
+#define EVENTS_XADDR    2
+#define MEDIA_XADDR     3
+#define IMAGING_XADDR   4
+#define PTZ_XADDR       5
+#define DEVICEIO_XADDR  6
+#define DISPLAY_XADDR   7
+#define RECORDING_XADDR 8
+#define SEARCH_XADDR    9
+#define REPLAY_XADDR    10
+#define RECEIVER_XADDR  11
+#define ANALYTICSDEVICE_XADDR    12
